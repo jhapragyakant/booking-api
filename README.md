@@ -1,1 +1,1 @@
-# booking-api
+# Fitness Class Booking API
