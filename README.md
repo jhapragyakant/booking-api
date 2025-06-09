@@ -118,6 +118,11 @@ Fetch all bookings by a client email.
 
 ---
 
+### `GET /bookings/all`
+Fetch all bookings available in the system. If none, returns the messege- "No bookings found".
+
+---
+
 ## Timezone Handling
 
 Classes are created in **IST** and stored in **UTC**. When retrieved, times are always in UTC.
