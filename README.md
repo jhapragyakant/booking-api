@@ -135,12 +135,12 @@ booking-api/
 
 ## Loom Video Walkthrough
 
-Watch the [Loom demo video here](#) (insert your Loom video link).
+Watch the [Loom demo video here](https://www.loom.com/share/3cc0413605394483ba42b43d1ac88c79?sid=f952230e-1dce-410f-9c77-6ee143c702af)
 
 ---
 
 ## Author
 
 - Name: Pragya Kant Jha
-- Email: [pkjakv123@gmail.com](mailto:pkjakv123@gmail.com)
+- Email: pkjakv123@gmail.com
 - GitHub: [https://github.com/jhapragyakant](https://github.com/jhapragyakant)
