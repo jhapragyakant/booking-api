@@ -13,6 +13,20 @@ A simple backend API for a fictional fitness studio offering Yoga, Zumba, and HI
 - **unittest** for testing
 
 ---
+## Directory Structure
+
+```
+booking-api/
+│
+├── main.py              # FastAPI app and routes
+├── models.py            # Pydantic models
+├── db.py                # In-memory storage logic
+├── test/
+│   └── test_api.py      # Unit tests
+└── requirements.txt     # Dependencies
+```
+
+---
 
 ## Installation & Setup
 
@@ -118,20 +132,6 @@ python -m unittest discover tests
 
 ---
 
-## Directory Structure
-
-```
-booking-api/
-│
-├── main.py              # FastAPI app and routes
-├── models.py            # Pydantic models
-├── db.py                # In-memory storage logic
-├── test/
-│   └── test_api.py      # Unit tests
-└── requirements.txt     # Dependencies
-```
-
----
 
 ## Loom Video Walkthrough
 
