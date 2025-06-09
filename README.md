@@ -19,7 +19,7 @@ A simple backend API for a fictional fitness studio offering Yoga, Zumba, and HI
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fitness-booking-api.git
+git clone [https://github.com/yourusername/fitness-booking-api.git](https://github.com/jhapragyakant/booking-api.git)
 cd fitness-booking-api
 ```
 
@@ -142,6 +142,6 @@ Watch the [Loom demo video here](#) (insert your Loom video link).
 
 ## 👨‍💻 Author
 
-- Name: [Your Name]
-- Email: [your.email@example.com]
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Name: Pragya Kant Jha
+- Email: [pkjakv123@gmail.com](mailto:pkjakv123@gmail.com)
+- GitHub: [https://github.com/jhapragyakant](https://github.com/jhapragyakant)
