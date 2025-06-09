@@ -1,9 +1,9 @@
 
-# 🧘 Fitness Studio Booking API
+# Fitness Studio Booking API
 
 A simple backend API for a fictional fitness studio offering Yoga, Zumba, and HIIT classes. Clients can view available classes and book their spots.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **FastAPI** for building APIs
@@ -14,13 +14,12 @@ A simple backend API for a fictional fitness studio offering Yoga, Zumba, and HI
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/fitness-booking-api.git](https://github.com/jhapragyakant/booking-api.git)
-cd fitness-booking-api
+git clone https://github.com/jhapragyakant/booking-api.git
 ```
 
 ### 2. Create Virtual Environment
@@ -44,7 +43,7 @@ pip install pydantic[email]
 
 ---
 
-## 🧪 Run the Server
+## Run the Server
 
 ```bash
 # Make sure you're in the directory where main.py is located
@@ -55,7 +54,7 @@ Now go to: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
 
-## 🧾 API Endpoints
+## API Endpoints
 
 ### `GET /classes`
 Get all upcoming fitness classes.
@@ -105,13 +104,13 @@ Fetch all bookings by a client email.
 
 ---
 
-## 🌐 Timezone Handling
+## Timezone Handling
 
 Classes are created in **IST** and stored in **UTC**. When retrieved, times are always in UTC.
 
 ---
 
-## ✅ Running Unit Tests
+## Running Unit Tests
 
 ```bash
 python -m unittest discover tests
@@ -119,7 +118,7 @@ python -m unittest discover tests
 
 ---
 
-## 🗂 Directory Structure
+## Directory Structure
 
 ```
 booking-api/
@@ -134,13 +133,13 @@ booking-api/
 
 ---
 
-## 📽 Loom Video Walkthrough
+## Loom Video Walkthrough
 
 Watch the [Loom demo video here](#) (insert your Loom video link).
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 - Name: Pragya Kant Jha
 - Email: [pkjakv123@gmail.com](mailto:pkjakv123@gmail.com)
